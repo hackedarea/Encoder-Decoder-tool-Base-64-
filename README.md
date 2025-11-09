@@ -2,9 +2,8 @@
 
 A lightweight and Linux-friendly command-line tool developed in **Java** to **encode** and **decode** messages. Designed with terminal lovers in mind and enhanced with a colorful CLI experience using `lolcat`.
 **Encode** any message of any length, You can **Decode** also of any length encoded message.
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
 ---
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 # Author
 👨‍💻 Author: phoenix
