@@ -6,9 +6,8 @@ A lightweight and Linux-friendly command-line tool developed in **Java** to **en
 ---
 
 # Author
-👨‍💻 Author
-👨‍💻 Coder Ujwal
-📍 GitHub: @coderujwal3
+👨‍💻 Author: phoenix
+📍 GitHub: @hackedarea
 🎓 Passionate about Java, Python, Linux tools, Ethical Hacking and Full Stack Web Development.
 
 
@@ -104,3 +103,4 @@ Run 'java Decode' to decode a message.
 
 Happy Coding! 💻
 ```
+
